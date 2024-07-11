@@ -1,5 +1,3 @@
-
-
 document.addEventListener('DOMContentLoaded', function() {
     const addItemForm = document.getElementById('addItemForm');
     const itemInput = document.getElementById('itemInput');
@@ -80,4 +78,5 @@ document.addEventListener('DOMContentLoaded', function() {
   
     renderItems(); 
   });
+  
   
